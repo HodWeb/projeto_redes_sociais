@@ -8,7 +8,7 @@
 
 html, body {
     height: 100vh; /* altura total do navegador  */
-    width: 100vh; /* largura total do navegador  */
+    width: 100vw; /* largura total do navegador  */
 }
 
 body {
