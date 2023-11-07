@@ -51,13 +51,13 @@ section#redes-sociais {
 section#redes-sociais img {
     width: 50px; /* tamanho dos logo redes sociais  */
     margin: 10px; /* espaçamento entre os logos  */
-    border-radius: 50%; /* deixando os logos redondos  */
+    border-radius: 25%; /* deixando os logos redondos  */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.425);
     box-sizing: border-box; /* deixa a borda dentro do icone  */
 }
 
 section#redes-sociais img:hover { /* movimentos dos icones  */
-    border: 2px solid rgba(255, 255, 255, 0.616); /* borda nos icones  */
+    border: 2px solid rgb(255, 255, 255); /* borda nos icones  */
     transform: translate(-3px, -3px);/* movimento dos icones  */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.63);/* sombra dos icones  */
     transition: transform .3s, border .3s ;/* tempo de movimento do icones  */
